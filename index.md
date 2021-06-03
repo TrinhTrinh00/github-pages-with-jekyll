@@ -5,6 +5,11 @@ You can use the [editor on GitHub](https://github.com/TrinhTrinh00/github-pages-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+# Trisha
+1. Things to do
+2. More things to do
+
+`code` not code
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

@@ -3,4 +3,18 @@
 
 @import "";
 
-background-color: #ff0000;
+body {
+    background-color: red;
+}
+
+h1 {
+    color: blue;
+}
+
+h1#trisha {
+    color: green;
+}
+
+h3 {
+    background-color: yellow;
+}
